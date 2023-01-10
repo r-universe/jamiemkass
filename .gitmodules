@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ENMeval"]
+	path = ENMeval
+	url = https://github.com/jamiemkass/enmeval
+	shallow = true
+	registered = true
